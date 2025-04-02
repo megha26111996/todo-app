@@ -3,3 +3,6 @@ shower
 clean
 update todo
 redemption
+Master Python
+Write
+read
